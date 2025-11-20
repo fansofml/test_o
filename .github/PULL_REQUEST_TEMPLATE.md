@@ -1,24 +1,35 @@
-## 变更说明
-简洁描述本次 PR 的变更内容
+## 📝 Description
+Brief description of the changes in this PR.
 
-## 变更类型
-请选择适用的选项：
-- [ ] Bug 修复
-- [ ] 新功能
-- [ ] 代码重构
-- [ ] 文档更新
-- [ ] 测试改进
-- [ ] 其他
+## 🔄 Type of Change
+Please check the applicable options:
+- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
+- [ ] ✨ New feature (non-breaking change which adds functionality)
+- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] 🔧 Refactoring (code change that neither fixes a bug nor adds a feature)
+- [ ] 📚 Documentation update
+- [ ] 🧪 Test improvement
+- [ ] 🚀 Performance improvement
+- [ ] 🎨 Style/UI change
 
-## 测试
-- [ ] 已添加单元测试
-- [ ] 已验证功能正常
-- [ ] 已通过现有测试
+## 🧪 Testing
+- [ ] Unit tests added/updated
+- [ ] Integration tests added/updated
+- [ ] Manual testing completed
+- [ ] All existing tests pass
 
-## 影响范围
-- [ ] 向后兼容
-- [ ] 需要更新文档
-- [ ] 影响 API 接口
+## 📋 Checklist
+- [ ] My code follows the project's style guidelines
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
 
-## 补充信息
-其他需要说明的信息
+## 🔗 Related Issues
+Closes #(issue number)
+
+## 📸 Screenshots (if applicable)
+Add screenshots here if UI changes are involved.
+
+## 📋 Additional Notes
+Any additional information that reviewers should know.
